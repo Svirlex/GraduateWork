@@ -374,6 +374,8 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
 "Assets/Scripts/lampActivating.cs"
 "Assets/Scripts/MatChanger.cs"
+"Assets/Scripts/SceneChanger.cs"
+"Assets/WallBuilder/Scripts/BuldozeMode.cs"
 "Assets/WallBuilder/Scripts/createFence.cs"
 "Assets/WallBuilder/Scripts/ShowMousePosition.cs"
 -langversion:9.0

@@ -1974,6 +1974,7 @@ GameObject:
   - component: {fileID: 1852495467}
   - component: {fileID: 1852495471}
   - component: {fileID: 1852495470}
+  - component: {fileID: 1852495472}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -2075,3 +2076,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   wall1Prefab: {fileID: 5433504709457813243, guid: 4320a8ffc5999074586a99bc388cbcda, type: 3}
   polePrefab: {fileID: 212380188922488033, guid: dbda8351595eebe4aa38e6c36758d72d, type: 3}
+--- !u!114 &1852495472
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1852495466}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c2952a5711e09541abf4570840f9cc7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  buldozeMode: 0
